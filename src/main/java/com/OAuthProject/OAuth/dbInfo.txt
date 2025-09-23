@@ -1,5 +1,1 @@
-CREATE DATABASE demo_oauth_db CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci;
 
-CREATE USER 'demo_user'@'%' IDENTIFIED BY 'Password123!';
-GRANT ALL PRIVILEGES ON demo_oauth_db.* TO 'demo_user'@'%';
-FLUSH PRIVILEGES;
