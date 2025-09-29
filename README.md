@@ -33,7 +33,7 @@ A Spring Boot application that provides **login with Google (OAuth2)** and persi
 
 ## Configuration
 
-Set up your Google credentials and database connection in `src/main/resources/application.properties`:
+Set up Google credentials and database connection in `src/main/resources/application.properties`:
 
 ```properties
 # MariaDB
